@@ -6,5 +6,5 @@
         <project path="device/xiaomi/sm6150-common" name="xiaomi-sweet2/android_device_xiaomi_sm6150-common" remote="github" revision="14.0" clone-depth="1" />
         <project path="vendor/xiaomi/sweet2" name="xiaomi-sweet2/android_vendor_xiaomi_sweet2" remote="github" revision="14.0" clone-depth="1" />
         <project path="vendor/xiaomi/sm6150-common" name="xiaomi-sweet2/android_vendor_xiaomi_sm6150-common" remote="github" revision="14.0" clone-depth="1" />
-        <project path="kernel/xiaomi/sm6150" name="xiaomi-sweet2/kernel_xiaomi_sm6150" remote="github" revision="14.0" clone-depth="1" />
+        <project path="kernel/xiaomi/sm6150" name="xiaomi-sweet2/android_kernel_xiaomi_sm6150" remote="github" revision="14.0" clone-depth="1" />
 </manifest>
